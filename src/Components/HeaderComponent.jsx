@@ -4,7 +4,7 @@ function HeaderComponent(){
     return(
         <>
             <header className='headerContainer'>
-                <h1><img className='logoGrn' src='/images/logo-grngrnn.svg' />&apos;s Photo Portofolio </h1>
+                <h1>Sukimasai&apos;s Photo Portofolio </h1>
             </header>
         </>
     )
