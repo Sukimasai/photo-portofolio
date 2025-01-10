@@ -1,0 +1,12 @@
+.headerContainer{
+    text-align: center;
+    color: aliceblue;
+    font-family: "Plus Jakarta Sans", serif;
+    font-size: 2em;
+}
+
+.logoGrn{
+    width: 100px;
+    margin-top: 20px;
+    transform: translateY(20px);
+}

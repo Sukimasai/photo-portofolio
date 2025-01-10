@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px) {
+    .iconImage{
+        width: 40px;
+    }
+    .iconContainer{
+        width: 50px;
+    }
+}
+
+.iconImage:hover{
+    transform: scale(1.1);
+}
